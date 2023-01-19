@@ -4,7 +4,9 @@
 用于屏幕保护的scr文件打开安装
 ## 安装使用
 来自作者CSDN文稿
-链接：[点击进入CSDN操作指南](https://blog.csdn.net/qq_57172082/article/details/128737379?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22128737379%22%2C%22source%22%3A%22qq_57172082%22%7D) 
+链接：[点击进入CSDN操作指南](https://blog.csdn.net/qq_57172082/article/details/128737379?spm=1001.2014.3001.5501) 
+*[HTML]: https://blog.csdn.net/qq_57172082/article/details/128737379?spm=1001.2014.3001.5501
+
 ## FliqloScr.zip
 Windows版本压缩文件
 ### Fliqlo.scr
